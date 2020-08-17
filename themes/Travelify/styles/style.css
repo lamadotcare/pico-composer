@@ -577,7 +577,7 @@ a.more-link:hover {
 }
 
 #site-title a {
-    color: #ff5050;
+    color: #000000;
     letter-spacing: -2px;
 }
 
@@ -2397,19 +2397,19 @@ article {
 /* Customize colors */
 
 body {
-    background-color: #001719;
+    background-color: #111111;
 }
 
 a {
-    color: #004c99;
+    color: #ff0000;
 }
 
 #site-title a {
-    color: #004770;
+    color: #ff0000;
 }
 
 #site-title a:hover {
-    color: #063572;
+    color: #ff000;
 }
 
 .wrapper {
@@ -2417,7 +2417,7 @@ a {
 }
 
 .social-icons ul li a {
-    color: #186ebf;
+    color: #ff000;
 }
 
 #main-nav a,
