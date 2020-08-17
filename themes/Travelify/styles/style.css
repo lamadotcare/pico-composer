@@ -2463,13 +2463,13 @@ a:hover,
 }
 
 #main-nav {
-    background: #001f4f;
-    border-color: #001f4f;
+    background: #ff0000;
+    border-color: #ff0000;
 }
 
 #main-nav ul li ul,
 body {
-    border-color: #001f4f;
+    border-color: #ff0000;
 }
 
 #main-nav a:hover,
@@ -2481,13 +2481,13 @@ body {
 #main-nav li:hover > a,
 #main-nav ul ul:hover > a,
 #main-nav a:focus {
-    background: #007fbf;
+    background: #ff0000;
 }
 
 #main-nav ul li ul li a:hover,
 #main-nav ul li ul li:hover > a,
 #main-nav ul li.current-menu-item ul li a:hover {
-    color: #007fbf;
+    color: #ff0000;
 }
 
 .entry-content {
