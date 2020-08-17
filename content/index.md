@@ -5,4 +5,4 @@ Description: LAMA.care is the website of Lansing Area Mutual Aid, a network of n
 
 ## Welcome to LAMA!
 
-%meta.description% <!-- replaced by the above Description meta header -->
+%meta.description%
