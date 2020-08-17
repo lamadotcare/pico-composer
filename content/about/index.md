@@ -24,18 +24,3 @@ In times of crisis, LAMA pays close attention to what we hear from our communiti
 
 ## Where do you fit in?
 If you are in the Lansing area, you are our Neighbor.  We're building ways to connect you and your neighbors together, even those on the other side of town, to make it easier to ask for what you need and share what you have.
-
-If you want to do something right now, we are building an Internet directory of resources in the Lansing area!  You can help us right now by letting us know about any of the following and anything else you think would fit nicely with this list:
-
- * Free/sliding scale 
-    * Skills education and training
-    * Professional services, like legal aid
-    * Medical services
-    * Dental services
- * Food banks and meal services
- * Bike, computer, and other collectives where people can work together  
- * Housing and shelter services
- * Immigration assitance
- * Harm reduction materials and outreach
- 
-# Thank you Lansing for being good neighbors!

@@ -19,7 +19,7 @@
 /*
  * BASIC
  */
-$config['site_title'] = 'lama.care';              // Site title
+$config['site_title'] = 'Lansing Area Mutual Aid';              // Site title
 // $config['base_url'] = '';                    // Override base URL (e.g. http://example.com)
 // $config['rewrite_url'] = null;               // A boolean indicating forced URL rewriting
 
@@ -55,5 +55,5 @@ $config['content_dir'] = 'content/';  // Content directory
 /*
  * CUSTOM
  */
-$config['site_subtitle'] = 'Lansing Area Mutual Aid';
+$config['site_subtitle'] = 'lama.care';
 $config['site_copyright'] = 'Lansing Area Mutual Aid';
