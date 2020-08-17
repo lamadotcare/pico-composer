@@ -8,11 +8,13 @@ Welcome to LAMA, we are %meta.description%.  Our normal website is taking a brea
 
 You can help us right now by letting us know about any of the following or anything else you think would fit nicely with this list:
 
+ * Transportation services
  * Free/sliding scale 
     * Skills education and training
     * Professional services, like legal aid
     * Medical services
     * Dental services
+    * Repair services for all kinds of things
  * Food banks and meal services
  * Bike, computer, and other collectives where people can work together  
  * Housing and shelter services
