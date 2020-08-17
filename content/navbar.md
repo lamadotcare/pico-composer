@@ -3,11 +3,11 @@ title: Navigation bar
 ---
 
  - [Home](%base_url%)
- - [Resources](%base_url%?resources)
-	- [Food](%base_url%?a/a)
-	    - [Page 1.1.1](%base_url%?a/a/a)
-	- [Page 1.2](%base_url%?a/b)
- - [Category 2](#)
-	- [Page 2.1](#)
-	- [Page 2.2](#)
- 
+ - [About](%base_url%?about)
+<!--
+ - [Resources](%base_url%?res)
+	- [Food](%base_url%?res/food)
+    - [Clothing](%base_url%?res/clothing)
+    - [Harm Reduction](%base_url%?res/hr)
+ 	- [Shelter](%base_url%?res/shelter)
+-->

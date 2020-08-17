@@ -11,7 +11,6 @@ social:
     - title: Send us an Email
       url: LansingMutualAid@outlook.com
       icon: email
-
 ---
 
 ## Welcome to LAMA!
