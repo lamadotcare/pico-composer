@@ -2,4 +2,4 @@
 
 ---
 
- *   ![City of Helsinki](%base_url%/assets/slider/uh.jpg)
+ *   ![LAMA](%base_url%/assets/slider/LAMA-Logo.png)
