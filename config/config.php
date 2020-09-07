@@ -55,5 +55,5 @@ $config['content_dir'] = 'content/';  // Content directory
 /*
  * CUSTOM
  */
-$config['site_subtitle'] = 'lama.care';
+$config['site_subtitle'] = 'Take care of your community so your community can take care of you.';
 $config['site_copyright'] = 'Lansing Area Mutual Aid';
