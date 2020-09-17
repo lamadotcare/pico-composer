@@ -10,5 +10,4 @@ We have meetings to get input from the community about
 and figure out how LAMA as an organization can best 
 
 ## Meeting Schedule
-We generally meet once per week.  We just made some petty big changes, but we will add our new calendar as soon as we sort it out.
-Thank you for being patient with us!
+We currently meet on Thursdays at 6pm.  [Click here to join our Zoom meeting](https://us02web.zoom.us/j/82992280092?pwd=bThUdC9SeUNJODFvL1R0V3AxOGdoUT09)
